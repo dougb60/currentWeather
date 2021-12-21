@@ -40,6 +40,6 @@ yarn ios ou yarn android;
 
 ## 📝 Licença
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+MIT
 
 [⬆ Voltar ao topo](#CurrentWeather)<br>
