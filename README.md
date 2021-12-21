@@ -3,7 +3,17 @@
 
 > App que exibe o clima atual de cidades.
 
+## 💻 Pré-requisitos
 
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
+<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
+
+```
+expo-cli supports following Node.js versions:
+* >=12.13.0 <13.0.0 (Maintenance LTS)
+* >=14.0.0 <15.0.0 (Active LTS)
+* >=15.0.0 <17.0.0 (Current Release)
+```
 
 
 ## 🚀 Instalando CurrentWeather
